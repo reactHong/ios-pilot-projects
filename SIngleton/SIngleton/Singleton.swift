@@ -7,3 +7,10 @@
 
 import Foundation
 
+class ApiClient {
+    
+    private init() { }
+}
+
+let api = ApiClient()
+
